@@ -2,14 +2,12 @@
 機械学習 playground
 
 ## Basic
-基本的なMLP
+実装内容：基本的なMLP
 
-実行手順
-python basic.py
+実行:`python basic.py`
 
 ## ViT
-Vision Transformer
+実装内容：Vision Transformer
 
-実行手順
-python main.py
+実行:`python main.py`
 
